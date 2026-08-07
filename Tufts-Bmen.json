@@ -1,0 +1,256 @@
+{
+    "players": [
+        "Dahlin Allport",
+        "Lucas Banks",
+        "Lev Barnett",
+        "Joshua Blum",
+        "Owen Caughey",
+        "Joey Ellard",
+        "Declan Golden",
+        "Erik Hellgren",
+        "Peter Impink",
+        "Caleb Kaufman",
+        "Elias Leggat-Barr",
+        "Eli Lipman",
+        "owen pallatroni",
+        "Dyan Peifer",
+        "Lucas Prince",
+        "Theodore Prince",
+        "Owen Reed",
+        "Jesse Schiffman",
+        "Nicholas Thorsen",
+        "Boone Tutterow",
+        "Nathaniel Weiss",
+        "Jaiden Zhu",
+        "Tianmou Zhu",
+        "Justin Hudson",
+        "Charlie Bielawa",
+        "Forest Gill",
+        "Musashi Kuramoto",
+        "Joshua Fleegler",
+        "Maddox Weisz",
+        "Zach Snyder"
+    ],
+    "coaches": [
+        "Jerry Wang"
+    ],
+    "schedule": [
+        {
+            "tournament": "The Grand Northeast Kickoff",
+            "games": [
+                {
+                    "tournament": "The Grand Northeast Kickoff",
+                    "date": "March 07",
+                    "opponent": "Massachusetts-Lowell",
+                    "our_score": 11,
+                    "opponent_score": 2,
+                    "result": "W"
+                },
+                {
+                    "tournament": "The Grand Northeast Kickoff",
+                    "date": "March 07",
+                    "opponent": "Rensselaer Polytech",
+                    "our_score": 4,
+                    "opponent_score": 9,
+                    "result": "L"
+                },
+                {
+                    "tournament": "The Grand Northeast Kickoff",
+                    "date": "March 07",
+                    "opponent": "Rhode Island",
+                    "our_score": 5,
+                    "opponent_score": 11,
+                    "result": "L"
+                },
+                {
+                    "tournament": "The Grand Northeast Kickoff",
+                    "date": "March 08",
+                    "opponent": "Brandeis",
+                    "our_score": 9,
+                    "opponent_score": 12,
+                    "result": "L"
+                },
+                {
+                    "tournament": "The Grand Northeast Kickoff",
+                    "date": "March 08",
+                    "opponent": "Massachusetts-Lowell",
+                    "our_score": 13,
+                    "opponent_score": 2,
+                    "result": "W"
+                },
+                {
+                    "tournament": "The Grand Northeast Kickoff",
+                    "date": "March 08",
+                    "opponent": "Rhode Island",
+                    "our_score": 6,
+                    "opponent_score": 9,
+                    "result": "L"
+                }
+            ]
+        },
+        {
+            "tournament": "Ocean State Invite 26'",
+            "games": [
+                {
+                    "tournament": "Ocean State Invite 26'",
+                    "date": "March 28",
+                    "opponent": "Bates",
+                    "our_score": 11,
+                    "opponent_score": 4,
+                    "result": "W"
+                },
+                {
+                    "tournament": "Ocean State Invite 26'",
+                    "date": "March 28",
+                    "opponent": "Brown [B]",
+                    "our_score": 8,
+                    "opponent_score": 6,
+                    "result": "W"
+                },
+                {
+                    "tournament": "Ocean State Invite 26'",
+                    "date": "March 28",
+                    "opponent": "Western New England",
+                    "our_score": 12,
+                    "opponent_score": 5,
+                    "result": "W"
+                },
+                {
+                    "tournament": "Ocean State Invite 26'",
+                    "date": "March 28",
+                    "opponent": "Maine",
+                    "our_score": 7,
+                    "opponent_score": 11,
+                    "result": "L"
+                },
+                {
+                    "tournament": "Ocean State Invite 26'",
+                    "date": "March 29",
+                    "opponent": "Western New England",
+                    "our_score": 11,
+                    "opponent_score": 8,
+                    "result": "W"
+                },
+                {
+                    "tournament": "Ocean State Invite 26'",
+                    "date": "March 29",
+                    "opponent": "Rhode Island",
+                    "our_score": 6,
+                    "opponent_score": 12,
+                    "result": "L"
+                },
+                {
+                    "tournament": "Ocean State Invite 26'",
+                    "date": "March 29",
+                    "opponent": "Bates",
+                    "our_score": 12,
+                    "opponent_score": 7,
+                    "result": "W"
+                }
+            ]
+        },
+        {
+            "tournament": "New England Dev Men's Conferences",
+            "games": [
+                {
+                    "tournament": "New England Dev Men's Conferences",
+                    "date": "April 18",
+                    "opponent": "Northeastern [C]",
+                    "our_score": 14,
+                    "opponent_score": 4,
+                    "result": "W"
+                },
+                {
+                    "tournament": "New England Dev Men's Conferences",
+                    "date": "April 18",
+                    "opponent": "Brown [B]",
+                    "our_score": 10,
+                    "opponent_score": 11,
+                    "result": "L"
+                },
+                {
+                    "tournament": "New England Dev Men's Conferences",
+                    "date": "April 18",
+                    "opponent": "Massachusetts  [B]",
+                    "our_score": 8,
+                    "opponent_score": 15,
+                    "result": "L"
+                },
+                {
+                    "tournament": "New England Dev Men's Conferences",
+                    "date": "April 19",
+                    "opponent": "Vermont [C]",
+                    "our_score": 11,
+                    "opponent_score": 6,
+                    "result": "W"
+                },
+                {
+                    "tournament": "New England Dev Men's Conferences",
+                    "date": "April 19",
+                    "opponent": "Harvard [B]",
+                    "our_score": 11,
+                    "opponent_score": 6,
+                    "result": "W"
+                },
+                {
+                    "tournament": "New England Dev Men's Conferences",
+                    "date": "April 19",
+                    "opponent": "Brown [B]",
+                    "our_score": 11,
+                    "opponent_score": 8,
+                    "result": "W"
+                }
+            ]
+        },
+        {
+            "tournament": "New England D-I College Men's Regionals",
+            "games": [
+                {
+                    "tournament": "New England D-I College Men's Regionals",
+                    "date": "May 02",
+                    "opponent": "Vermont",
+                    "our_score": 7,
+                    "opponent_score": 15,
+                    "result": "L"
+                },
+                {
+                    "tournament": "New England D-I College Men's Regionals",
+                    "date": "May 02",
+                    "opponent": "Boston College",
+                    "our_score": 4,
+                    "opponent_score": 15,
+                    "result": "L"
+                },
+                {
+                    "tournament": "New England D-I College Men's Regionals",
+                    "date": "May 02",
+                    "opponent": "Harvard",
+                    "our_score": 11,
+                    "opponent_score": 12,
+                    "result": "L"
+                },
+                {
+                    "tournament": "New England D-I College Men's Regionals",
+                    "date": "May 03",
+                    "opponent": "Northeastern [B]",
+                    "our_score": 13,
+                    "opponent_score": 8,
+                    "result": "W"
+                },
+                {
+                    "tournament": "New England D-I College Men's Regionals",
+                    "date": "May 03",
+                    "opponent": "Boston University",
+                    "our_score": 6,
+                    "opponent_score": 15,
+                    "result": "L"
+                }
+            ]
+        }
+    ],
+    "stats_summary": {
+        "total_games": 24,
+        "wins": 12,
+        "losses": 12
+    }
+}

@@ -1,0 +1,383 @@
+{
+    "players": [
+        "Calvin Guswa",
+        "Azi Levites-Cohen",
+        "Isaac Margulius",
+        "Lucas Plumb",
+        "Benjamin Rowland",
+        "Sawyer Wright",
+        "Alexander Vu",
+        "Naveen Bleakney-Eastman",
+        "William Chesney",
+        "Silas Grossman",
+        "Ethan Smith",
+        "Rohin Gast",
+        "Spencer Anderson",
+        "Owen Jones",
+        "Nate Brophy",
+        "Simon Cordes",
+        "Peter Kuypers",
+        "Tucker Livingston",
+        "Tobias Potts-Drew",
+        "Wilson Wu",
+        "Nayan Talwalkar",
+        "Ram Sundaram",
+        "Dorsey Strasburger",
+        "Eliav Malone"
+    ],
+    "coaches": [
+        "Jerry Wang",
+        "Gene Buonaccorsi",
+        "Jesse Strod",
+        "Toshihiro Nagase"
+    ],
+    "schedule": [
+        {
+            "tournament": "Florida Warm Up 2026",
+            "games": [
+                {
+                    "tournament": "Florida Warm Up 2026",
+                    "date": "January 30",
+                    "opponent": "Virginia",
+                    "our_score": 13,
+                    "opponent_score": 9,
+                    "result": "W"
+                },
+                {
+                    "tournament": "Florida Warm Up 2026",
+                    "date": "January 30",
+                    "opponent": "Alabama-Huntsville",
+                    "our_score": 13,
+                    "opponent_score": 9,
+                    "result": "W"
+                },
+                {
+                    "tournament": "Florida Warm Up 2026",
+                    "date": "January 30",
+                    "opponent": "Florida State",
+                    "our_score": 13,
+                    "opponent_score": 6,
+                    "result": "W"
+                },
+                {
+                    "tournament": "Florida Warm Up 2026",
+                    "date": "January 31",
+                    "opponent": "Chicago",
+                    "our_score": 10,
+                    "opponent_score": 12,
+                    "result": "L"
+                },
+                {
+                    "tournament": "Florida Warm Up 2026",
+                    "date": "January 31",
+                    "opponent": "Carleton College",
+                    "our_score": 6,
+                    "opponent_score": 13,
+                    "result": "L"
+                },
+                {
+                    "tournament": "Florida Warm Up 2026",
+                    "date": "January 31",
+                    "opponent": "Virginia Tech",
+                    "our_score": 9,
+                    "opponent_score": 8,
+                    "result": "W"
+                },
+                {
+                    "tournament": "Florida Warm Up 2026",
+                    "date": "February 01",
+                    "opponent": "Minnesota",
+                    "our_score": 10,
+                    "opponent_score": 13,
+                    "result": "L"
+                },
+                {
+                    "tournament": "Florida Warm Up 2026",
+                    "date": "February 01",
+                    "opponent": "Wisconsin",
+                    "our_score": 9,
+                    "opponent_score": 11,
+                    "result": "L"
+                }
+            ]
+        },
+        {
+            "tournament": "Queen City Tune Up 2026",
+            "games": [
+                {
+                    "tournament": "Queen City Tune Up 2026",
+                    "date": "February 14",
+                    "opponent": "Alabama",
+                    "our_score": 10,
+                    "opponent_score": 11,
+                    "result": "L"
+                },
+                {
+                    "tournament": "Queen City Tune Up 2026",
+                    "date": "February 14",
+                    "opponent": "North Carolina-Charlotte",
+                    "our_score": 9,
+                    "opponent_score": 11,
+                    "result": "L"
+                },
+                {
+                    "tournament": "Queen City Tune Up 2026",
+                    "date": "February 14",
+                    "opponent": "Temple",
+                    "our_score": 13,
+                    "opponent_score": 6,
+                    "result": "W"
+                },
+                {
+                    "tournament": "Queen City Tune Up 2026",
+                    "date": "February 14",
+                    "opponent": "Virginia",
+                    "our_score": 12,
+                    "opponent_score": 13,
+                    "result": "L"
+                },
+                {
+                    "tournament": "Queen City Tune Up 2026",
+                    "date": "February 15",
+                    "opponent": "Tennessee-Chattanooga",
+                    "our_score": 13,
+                    "opponent_score": 5,
+                    "result": "W"
+                },
+                {
+                    "tournament": "Queen City Tune Up 2026",
+                    "date": "February 15",
+                    "opponent": "James Madison",
+                    "our_score": 12,
+                    "opponent_score": 4,
+                    "result": "W"
+                }
+            ]
+        },
+        {
+            "tournament": "Stanford Invite 2026",
+            "games": [
+                {
+                    "tournament": "Stanford Invite 2026",
+                    "date": "March 14",
+                    "opponent": "Cal Poly-SLO [B]",
+                    "our_score": 13,
+                    "opponent_score": 4,
+                    "result": "W"
+                },
+                {
+                    "tournament": "Stanford Invite 2026",
+                    "date": "March 14",
+                    "opponent": "Lewis & Clark",
+                    "our_score": 13,
+                    "opponent_score": 12,
+                    "result": "W"
+                },
+                {
+                    "tournament": "Stanford Invite 2026",
+                    "date": "March 14",
+                    "opponent": "British Columbia",
+                    "our_score": 5,
+                    "opponent_score": 11,
+                    "result": "L"
+                },
+                {
+                    "tournament": "Stanford Invite 2026",
+                    "date": "March 14",
+                    "opponent": "Whitman",
+                    "our_score": 13,
+                    "opponent_score": 10,
+                    "result": "W"
+                },
+                {
+                    "tournament": "Stanford Invite 2026",
+                    "date": "March 15",
+                    "opponent": "California-Santa Cruz",
+                    "our_score": 5,
+                    "opponent_score": 11,
+                    "result": "L"
+                },
+                {
+                    "tournament": "Stanford Invite 2026",
+                    "date": "March 15",
+                    "opponent": "Illinois",
+                    "our_score": 7,
+                    "opponent_score": 13,
+                    "result": "L"
+                },
+                {
+                    "tournament": "Stanford Invite 2026",
+                    "date": "March 15",
+                    "opponent": "Lewis & Clark",
+                    "our_score": 10,
+                    "opponent_score": 7,
+                    "result": "W"
+                }
+            ]
+        },
+        {
+            "tournament": "Huck Finn 2026",
+            "games": [
+                {
+                    "tournament": "Huck Finn 2026",
+                    "date": "March 28",
+                    "opponent": "Purdue",
+                    "our_score": 8,
+                    "opponent_score": 12,
+                    "result": "L"
+                },
+                {
+                    "tournament": "Huck Finn 2026",
+                    "date": "March 28",
+                    "opponent": "Michigan",
+                    "our_score": 6,
+                    "opponent_score": 10,
+                    "result": "L"
+                },
+                {
+                    "tournament": "Huck Finn 2026",
+                    "date": "March 28",
+                    "opponent": "Davenport",
+                    "our_score": 8,
+                    "opponent_score": 11,
+                    "result": "L"
+                },
+                {
+                    "tournament": "Huck Finn 2026",
+                    "date": "March 28",
+                    "opponent": "Washington University",
+                    "our_score": 10,
+                    "opponent_score": 5,
+                    "result": "W"
+                },
+                {
+                    "tournament": "Huck Finn 2026",
+                    "date": "March 29",
+                    "opponent": "Mississippi State",
+                    "our_score": 15,
+                    "opponent_score": 10,
+                    "result": "W"
+                },
+                {
+                    "tournament": "Huck Finn 2026",
+                    "date": "March 29",
+                    "opponent": "Minnesota",
+                    "our_score": 11,
+                    "opponent_score": 13,
+                    "result": "L"
+                },
+                {
+                    "tournament": "Huck Finn 2026",
+                    "date": "March 29",
+                    "opponent": "Colorado State",
+                    "our_score": 10,
+                    "opponent_score": 7,
+                    "result": "W"
+                },
+                {
+                    "tournament": "Huck Finn 2026",
+                    "date": "March 29",
+                    "opponent": "Purdue",
+                    "our_score": 14,
+                    "opponent_score": 9,
+                    "result": "W"
+                }
+            ]
+        },
+        {
+            "tournament": "Metro Boston D-I Men's Conferences",
+            "games": [
+                {
+                    "tournament": "Metro Boston D-I Men's Conferences",
+                    "date": "April 11",
+                    "opponent": "Massachusetts-Lowell",
+                    "our_score": 15,
+                    "opponent_score": 0,
+                    "result": "W"
+                },
+                {
+                    "tournament": "Metro Boston D-I Men's Conferences",
+                    "date": "April 11",
+                    "opponent": "Boston College",
+                    "our_score": 15,
+                    "opponent_score": 3,
+                    "result": "W"
+                },
+                {
+                    "tournament": "Metro Boston D-I Men's Conferences",
+                    "date": "April 12",
+                    "opponent": "Northeastern",
+                    "our_score": 11,
+                    "opponent_score": 7,
+                    "result": "W"
+                }
+            ]
+        },
+        {
+            "tournament": "New England D-I College Men's Regionals",
+            "games": [
+                {
+                    "tournament": "New England D-I College Men's Regionals",
+                    "date": "May 02",
+                    "opponent": "Boston University",
+                    "our_score": 15,
+                    "opponent_score": 1,
+                    "result": "W"
+                },
+                {
+                    "tournament": "New England D-I College Men's Regionals",
+                    "date": "May 02",
+                    "opponent": "Northeastern",
+                    "our_score": 15,
+                    "opponent_score": 10,
+                    "result": "W"
+                },
+                {
+                    "tournament": "New England D-I College Men's Regionals",
+                    "date": "May 02",
+                    "opponent": "Brown",
+                    "our_score": 12,
+                    "opponent_score": 14,
+                    "result": "L"
+                },
+                {
+                    "tournament": "New England D-I College Men's Regionals",
+                    "date": "May 02",
+                    "opponent": "Dartmouth",
+                    "our_score": 15,
+                    "opponent_score": 8,
+                    "result": "W"
+                },
+                {
+                    "tournament": "New England D-I College Men's Regionals",
+                    "date": "May 03",
+                    "opponent": "Massachusetts",
+                    "our_score": 9,
+                    "opponent_score": 15,
+                    "result": "L"
+                },
+                {
+                    "tournament": "New England D-I College Men's Regionals",
+                    "date": "May 03",
+                    "opponent": "Vermont",
+                    "our_score": 14,
+                    "opponent_score": 13,
+                    "result": "W"
+                },
+                {
+                    "tournament": "New England D-I College Men's Regionals",
+                    "date": "May 03",
+                    "opponent": "McGill",
+                    "our_score": 9,
+                    "opponent_score": 13,
+                    "result": "L"
+                }
+            ]
+        }
+    ],
+    "stats_summary": {
+        "total_games": 39,
+        "wins": 22,
+        "losses": 17
+    }
+}
