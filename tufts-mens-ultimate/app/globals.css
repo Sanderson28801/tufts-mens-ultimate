@@ -5,19 +5,22 @@
   --foreground: #171717;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+@theme {
+  /* The dark brown is basically black, so it has great contrast */
+  --color-tufts-brown: #31261d;
 
-@media (prefers-color-scheme: dark) {
+  /* A darkened version of Tufts Blue that passes contrast checks for text */
+  --color-tufts-blue: #255585;
+
+  /* The bright official blue, to be used ONLY for backgrounds or thick borders */
+  --color-tufts-blue-bright: #3e8ede;
+}
+/* @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
   }
-}
+} */
 
 body {
   background: var(--background);
