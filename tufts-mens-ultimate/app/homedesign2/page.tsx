@@ -18,7 +18,7 @@ async function getTeamData(filename: string): Promise<TeamData | null> {
   }
 }
 
-export default async function HomePage() {
+export default async function Home1() {
   // 1. Fetch both datasets in parallel
   const [emenData, bmenData] = await Promise.all([
     getTeamData("Tufts-Emen.json"),
