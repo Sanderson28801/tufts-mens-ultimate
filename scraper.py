@@ -123,16 +123,16 @@ for url, team_name in zip(TEAM_URLS,TEAM_NAMES):
 
 
         # --- 3b. MANUAL EDIT & REORDERING ---
+        if team_name == "Tufts-Emen":
+            missing_coach = "Jerry Wang"  # Replace with actual missing coach name
+            if missing_coach not in coaches:
+                coaches.append(missing_coach)
 
-        missing_coach = "Jerry Wang"  # Replace with actual missing coach name
-        if missing_coach not in coaches:
-            coaches.append(missing_coach)
-
-        # Example: Move 'Jerry Wang' to index 0 (if not already first)
-        head_coach_name = "Jerry Wang"
-        if head_coach_name in coaches:
-            coaches.remove(head_coach_name)
-            coaches.insert(0, head_coach_name) # Insert at top of list
+            # Example: Move 'Jerry Wang' to index 0 (if not already first)
+            head_coach_name = "Jerry Wang"
+            if head_coach_name in coaches:
+                coaches.remove(head_coach_name)
+                coaches.insert(0, head_coach_name) # Insert at top of list
 
         
         # --- 4. COMBINE INTO FINAL DATA STRUCTURE ---
